@@ -6,9 +6,9 @@ El texto original en inglés puede encontrarse en: https://github.com/OWASP/wstg
 Al enviar un *Pull Request* [pull request](#how-to-submit-a-pull-request), revisores y editores deben asociar los cambios a una sección:
 
 1. Elige una sección que te gustaría revisar.
-2. Clona el repositorio y envía un *Pull Request* desde una rama llamada `revisa-<número>`.  
+2. Clona el repositorio y envía un *Pull Request* desde una rama llamada `revisión-<número>`.  
    Por ejemplo:  
-   `git checkout -b revisa-4-01-07`
+   `git checkout -b revisión-4-01-07`
 
 # Índice
 
