@@ -1,0 +1,1 @@
+# wstg-translations-es
